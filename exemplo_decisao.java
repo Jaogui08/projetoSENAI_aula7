@@ -15,7 +15,7 @@ public class exemplo_decisao {
 		} else if (idade < 0) {
 			System.out.println("Idade inválida");
 		} else {
-			System.out.println("\nVocê é um adulto com " + idade + " anos ");
+			System.out.println("\nVocê é menor de idade com " + idade + " anos ");
 		}
 		
 		scanner.close();
